@@ -3,6 +3,5 @@
 sim, a entidade Professor
 ⇨ Quais são os principais campos e tipos?
 
-
 ⇨ Como essas entidades estão relacionadas?
-Estao relacionadas com as codigos
+Estao relacionadas com as
